@@ -14,6 +14,15 @@ Despite these shortcomings, I was happy: I could continue to use my Kindle witho
 
 The installation was far from straightfoward so I figured I'd document it.  While I was at it, I packaged up the hack and made a couple of minor tweaks.  Enjoy!
 
+## Credit
+
+All I did was document what some other smart folks had done.  Credit goes to them:
+* [fbdev for fbout](http://www.mobileread.com/forums/showthread.php?t=147488)
+* [khmann for the original page refresh speedup hack](http://www.mobileread.com/forums/showpost.php?p=1658305&postcount=1)
+* [mobad for the progress bar remover](http://www.mobileread.com/forums/showpost.php?p=1674783&postcount=35)
+* [all the devs who jailbroke the kindle](http://www.mobileread.com/forums/showthread.php?t=88004)
+* [h1uke for launchpad](http://www.mobileread.com/forums/showthread.php?t=97636)
+
 ## Usage
 
 * Install
