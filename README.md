@@ -1,4 +1,4 @@
-# Progress Bar remover for Kindle
+# Progress Bar remover for eInk Kindles
 
 Last year, I decided to get an Kindle Keyboard 3G, and I loved it.  The eInk display was much clearer than my previous LCD devices, I could read outside and the battery life was amazing.  However, I was surprised that there was no way to disable the progress bar.  Not having a progress bar on every page was something I got used to on my previous eReader, a [NookColor running CyanogenMod](http://forum.xda-developers.com/showpost.php?p=11452450&postcount=19).
 
@@ -61,8 +61,8 @@ These instructions are for a Kindle Keyboard w/ 3G.  If you are using a differen
   If all went well, you'll see that the update was applied successfully and that there is a launchpad directory in the directory listing  when you connect your Kindle to your computer.
 
 3. Install the progress remover hack (http://www.mobileread.com/forums/showpost.php?p=1674783&postcount=35)
-  * Download my packaged version of the progress remover from http://dl.dropbox.com/u/560120/progRem.zip
+  * Download my packaged version of the progress remover from https://github.com/muness/kindle-progress-bar-remover/zipball/master
   * Connect your Kindle to your computer via USB
-  * Open up the zip file and copy both folders to your Kindle
+  * Open up the zip file and copy both launchpad and progRem folders to your Kindle
   * Disconnect the Kindle from your computer
   * While your kindle is on, press `Shift` then then `shift` then `space`. (launchpad's command to re-read configuration)
