@@ -32,7 +32,7 @@ All I did was document what some other smart folks had done.  Credit goes to the
 
 ## Installation
 
-These instructions are for a Kindle Keyboard w/ 3G.  If you are using a different variant, you'll need to copy the appropriate file in steps 1 and 2 as follows (http://yifan.lu/p/kindle-jailbreak/):
+These instructions are for a Kindle Keyboard w/ 3G.  If you are using a different variant, you'll need to copy the appropriate file in steps 1 and 2 as follows (http://wiki.mobileread.com/w/index.php?title=Kindle_Hacks_Information&action=historysubmit&diff=30384&oldid=29977):
 * k2 = Kindle 2 US
 * k2i = Kindle 2 International
 * dx = Kindle DX US
