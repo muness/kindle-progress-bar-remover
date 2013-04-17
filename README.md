@@ -65,4 +65,4 @@ These instructions are for a Kindle Keyboard w/ 3G.  If you are using a differen
   * Connect your Kindle to your computer via USB
   * Open up the zip file and copy both launchpad and progRem folders to your Kindle
   * Disconnect the Kindle from your computer
-  * While your kindle is on, press `shift` then then `shift` then `space`. (launchpad's command to re-read configuration)
+  * While your kindle is on, press `shift` then `shift` then `space`. (launchpad's command to re-read configuration)
